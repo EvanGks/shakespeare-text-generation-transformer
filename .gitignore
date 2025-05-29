@@ -1,0 +1,64 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# Data and model outputs
+/data/
+/checkpoints/
+/saved_model/
+*.h5
+*.hdf5
+*.npy
+*.npz
+*.ckpt
+*.pb
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# VSCode and IDE settings
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Jupyter runtime
+.jupyter/
+
+# Ignore environment variable files
+.env
+.env.*
+
+# Ignore pip wheel files
+pip-wheel-metadata/
+
+# Ignore test outputs
+htmlcov/
+.coverage
+.tox/
+
+# Ignore temporary files
+*.tmp
+*.temp
+~* 

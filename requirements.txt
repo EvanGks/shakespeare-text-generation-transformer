@@ -1,0 +1,21 @@
+# Core dependencies for Shakespearean Transformer Project
+# Deep learning framework
+tensorflow>=2.5.0
+
+# Numerical computations
+numpy>=1.19.0
+
+# HTTP requests for data downloading
+requests>=2.25.0
+
+# Visualization and plotting
+matplotlib>=3.3.0
+
+# Jupyter notebook support (for running .ipynb files)
+jupyter>=1.0.0
+
+# Progress bar for loops (used in data processing/training)
+tqdm>=4.50.0
+
+# Note: 'json' is part of the Python standard library and does not need to be installed separately.
+# If you use GPU, ensure you have the appropriate CUDA/cuDNN versions for your TensorFlow installation.
