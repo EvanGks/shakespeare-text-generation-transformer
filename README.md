@@ -233,8 +233,6 @@ You can view the notebook with all outputs and results on Kaggle:
 
 ---
 
-## 📧 Contact
-
 ## 📬 Contact
 For questions or feedback, please reach out via:
 
