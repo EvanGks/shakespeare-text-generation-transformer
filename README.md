@@ -235,13 +235,14 @@ You can view the notebook with all outputs and results on Kaggle:
 
 ## 📧 Contact
 
+## 📬 Contact
 For questions or feedback, please reach out via:
 
+- **GitHub:** [EvanGks](https://github.com/EvanGks)
 - **X (Twitter):** [@Evan6471133782](https://x.com/Evan6471133782)
 - **LinkedIn:** [Evangelos Gakias](https://www.linkedin.com/in/evangelos-gakias-346a9072)
-- **Email:** [vgakias_@hotmail.com](mailto:vgakias_@hotmail.com)
-
-Or open an issue in the repository.
+- **Kaggle:** [evangelosgakias](https://www.kaggle.com/evangelosgakias)
+- **Email:** [evangks88@gmail.com](mailto:evangks88@gmail.com)
 
 ---
 
